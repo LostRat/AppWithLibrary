@@ -1,0 +1,3 @@
+rootProject.name = "AppWithLibrary"
+include ':app'
+include ':LibraryOne'
